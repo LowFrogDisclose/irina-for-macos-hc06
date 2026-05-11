@@ -1,4 +1,4 @@
-
+Irina for macOS advanced Script: dark-mode & CPU-monitoring is the best Irina for macOS script, featuring dark-mode and CPU-monitoring. Safe, efficient, and optimized for macOS
 
 
 
